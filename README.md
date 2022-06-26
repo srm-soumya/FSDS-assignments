@@ -1,3 +1,4 @@
 # Basic assignments of ineuron.ai
 
-Files with the name BasicTH are theory based assignments. Rest are programming assignments.
+Theory Folder contains theory based assignments and others and practical assignments.
+
