@@ -1,4 +1,4 @@
 # Basic assignments of ineuron.ai
 
-Theory Folder contains theory based assignments and others and practical assignments.
+Theory Folder contains theory based assignments and Practical folder contains practical assignments.
 
